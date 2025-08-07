@@ -48,7 +48,7 @@ C, C++, x86-64 Assembly, Python, Lua
 Linux, CMake, GDB, Git, PyTorch, Poetry            
 
 **Areas of Interest**  
-Compilers, Operating Systems, Data Structures, Performance Engineering
+Computer Vision, Machine Learning, Compilers, Operating Systems, Data Structures, Performance Engineering
 
 ---
 
