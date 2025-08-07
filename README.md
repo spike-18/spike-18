@@ -14,7 +14,7 @@
 ## 🧭 About Me
 
 I’m currently studying at the Moscow Institute of Physics and Technology (MIPT).  
-My main focus is on data science and applied machine learning — including statistical modeling, data engineering, and algorithm development.
+My main focus is on data science and applied machine learning — including computer vision, statistical modeling, data engineering, and algorithm development.
 
 I enjoy working on projects that turn raw data into insights and build systems that learn, predict, and scale 📊
 
